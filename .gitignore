@@ -1,0 +1,14 @@
+__pycache__/
+.pytest_cache/
+*.py[cod]
+*.so
+*.dylib
+native/*/target/
+conf/*
+!conf/*.example.json
+runs/
+data/
+logs/
+*.log
+.venv/
+.DS_Store

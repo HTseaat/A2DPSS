@@ -1,0 +1,9 @@
+{
+  "hosts": [
+    {
+      "name": "local",
+      "transport": "local",
+      "address": "127.0.0.1"
+    }
+  ]
+}
